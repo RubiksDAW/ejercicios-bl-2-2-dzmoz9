@@ -18,7 +18,7 @@ function retornar(propiedad, arr) {
   return resultado;
 }
 // Guardamos en prueba los valores obtenido de ejecutar la funcion
-const prueba = retornar('apellido1', arrayObjetos);
+const prueba = retornar('nombre', arrayObjetos);
 
 console.log(prueba);
 
