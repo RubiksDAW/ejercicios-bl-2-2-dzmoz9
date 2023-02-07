@@ -78,7 +78,7 @@ function calcularDiferenciaDias(fechaA, fechaB) {
   return Math.abs(Math.round(diferenciaEnDias));
 }
 
-console.log(calcularDiferenciaDias('25/03/2023', '25/04/2023'));
+console.log(`Días transcurridos entre una fecha y otra: ${calcularDiferenciaDias('25/03/2023', '25/05/2024')}`);
 
 // calcularTiempoTranscurrid(fechaFin,fechaInicio)
 
