@@ -28,16 +28,15 @@ console.log(arr);
 
 // Segunda solución
 
-// Especificamos cual es el caracter a partir del cual debemos dividir nuestra cadena de texto, en este caso el caracter es un
-// espacio en blanco.
+// Especificamos cual es el caracter a partir del cual debemos dividir nuestra cadena de texto, en este caso el caracter es un espacio en blanco.
 
 // const espacio = ' ';
 
 // const arr = texto.split(espacio);
 
-// // Una vez recogido el array y dividido por paralabras procedemos a ordenarlo con el metodo sort().
-// // Hacemos uso de una función flecha para pasar dos valores y que se devuelva el menor para la ordenación.
-// // Si quisieramos ordenarlos de mayor a menor seria b.lenght - a.length
+// Una vez recogido el array y dividido por paralabras procedemos a ordenarlo con el metodo sort().
+// Hacemos uso de una función flecha para pasar dos valores y que se devuelva el menor para la ordenación.
+// Si quisieramos ordenarlos de mayor a menor seria b.lenght - a.length
 
 // arr.sort((a, b) => a.length - b.length);
 
