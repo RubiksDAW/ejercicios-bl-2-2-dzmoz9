@@ -26,7 +26,7 @@ arr.sort((a, b) => a.length - b.length);
 
 console.log(arr);
 
-// Segunda opción
+// Segunda solución
 
 // Especificamos cual es el caracter a partir del cual debemos dividir nuestra cadena de texto, en este caso el caracter es un
 // espacio en blanco.
